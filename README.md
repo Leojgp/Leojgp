@@ -1,6 +1,6 @@
 ## 🌟 Leojgp
 
-🚀 Full Stack Developer | Tech Enthusiast 🚀
+🚀 Mobile App Developer | Software Developer | Tech Enthusiast 🚀
 
 ### 🛠️ Technologies & Tools 🛠️
 <div align="center">  
@@ -23,14 +23,15 @@
 </div>
 
 ### 📈 GitHub Stats:
-<div align="center" style="display: flex; justify-content: space-around; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leojgp&show_icons=true&theme=radical" alt="Leojgp's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leojgp&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leojgp&hide_title=false&show_icons=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leojgp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
 
-💡 Striving for continuous improvement and innovation in software development.
+💡 Always focused on building better, scalable, and high-performance solutions.
 
 ### 📬 Connect with me:
 
